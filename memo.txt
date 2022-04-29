@@ -1,0 +1,11 @@
+# Handling Exceptions
+
+try / except  
+
+
+else / finally
+
+
+raise Exception("Error Message")
+
+Exception hierarchy
